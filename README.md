@@ -47,6 +47,7 @@ $ jupyter-lab
 ### Para persistir os dados no elasticsearch
 
 Execute o docker-compose para criar uma instância local do elasticsearch. Ele ficará rodando na endereço: http://localhost:9200/. 
+O kibana estará no endereço: http://localhost:5601/
 
 ```bash
 $ docker-compose up -d
