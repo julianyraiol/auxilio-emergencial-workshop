@@ -5,22 +5,10 @@ Os dados trabalhados nesse workshop foram retirados do [Portal da Transparência
 ### Estrutura do projeto
 
 ```
-|-- processing
-|   |-- mapping
-|   |-- elasticsearch_interface.py
-|   |-- main.py
-|
-|-- tse_candidatos
-|   |-- data
-|   |-- tse_candidatos
-|       | -- spiders
-|           | -- candidatos.py
-|           | -- processing.py
-|
-|       | -- items.py
-|       | -- middlewares.py
-|       | -- pipelines.py
-|       | -- settings.py
+|-- notebooks
+|   |-- notebooks
+|   |-- auxilio-emergencial.ipynb
+|   |-- coda-br.ipynb
 |
 |-- Pipfile
 |-- Pipfile.lock
