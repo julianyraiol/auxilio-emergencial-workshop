@@ -2,7 +2,7 @@
 
 Os dados trabalhados nesse workshop foram retirados do [Portal da Transparência da União](http://www.portaltransparencia.gov.br/pagina-interna/603519-download-de-dados-auxilio-emergencial). 
 
-Slides apresentados no workshop: [Link](https://docs.google.com/presentation/d/1QoP9EHWsl-OZca-DCQIoXK1B70to55K_CyMAK3QsWcY/edit?usp=sharing)
+Slides apresentados no workshop do [CODA2020](https://escoladedados.org/coda2020/): [Link](https://docs.google.com/presentation/d/1QoP9EHWsl-OZca-DCQIoXK1B70to55K_CyMAK3QsWcY/edit?usp=sharing)
 
 ### Estrutura do projeto
 
